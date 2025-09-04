@@ -70,7 +70,7 @@ npm install
 ```bash
 langgraph dev --allow-blocking
 ```
-**Backend**
+**frontend**
 ```bash
 npm run dev
 ```
